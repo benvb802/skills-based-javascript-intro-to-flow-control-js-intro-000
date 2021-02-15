@@ -5,10 +5,10 @@ if (13-19){
 }
 
 function teenager(age) {
-  if (age===13-19) {
+  if (13-19) {
     return "You are a teenager!"
 } else {
-  return "You are not a teenager"
+  return "You are a teenager!r"
 }
 }
 
